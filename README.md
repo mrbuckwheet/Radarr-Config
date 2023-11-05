@@ -8,3 +8,6 @@ API Reset
 Restore
 ![Capture1](https://user-images.githubusercontent.com/124317277/232350268-38a61d94-ec4d-4a5a-8344-3bbdced96808.JPG)
 
+<!-- markdownlint-disable MD033 -->
+<a href="https://www.buymeacoffee.com/mrbuckwheet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<!-- markdownlint-enable MD033 -->
